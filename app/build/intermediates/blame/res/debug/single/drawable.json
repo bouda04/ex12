@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\egg.png",
+        "source": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\src\\main\\res\\drawable\\egg.png"
+    },
+    {
+        "merged": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start.png",
+        "source": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\src\\main\\res\\drawable\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\broken.png",
+        "source": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\src\\main\\res\\drawable\\broken.png"
+    },
+    {
+        "merged": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\restart.png",
+        "source": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\src\\main\\res\\drawable\\restart.png"
+    }
+]

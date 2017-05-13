@@ -1,0 +1,41 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_dark"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.ex12.MainActivity" >
+
+    <TextView
+        android:id="@+id/tvCounter"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_gravity="top|center"
+        android:gravity="center"
+        android:text="500"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="40dp" />
+
+    <ImageButton
+        android:id="@+id/btnrestart"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:onClick="restart"
+        android:scaleType="fitXY"
+        android:layout_gravity="left|bottom"
+        android:src="@drawable/restart" />
+
+    <ImageButton
+        android:id="@+id/btnEgg"
+        android:layout_width="150dp"
+        android:layout_height="250dp"
+      android:layout_gravity="center"
+        android:background="@android:color/background_dark"
+        android:onClick="touches"
+        android:scaleType="fitXY"
+        android:src="@drawable/start" />
+
+</FrameLayout>

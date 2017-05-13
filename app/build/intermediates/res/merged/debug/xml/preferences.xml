@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference
+        android:key="only_portrait"
+        android:title="Avoid Landscape Rotation"
+        android:summary="ssss"
+        android:defaultValue="false"/>
+    <ListPreference 
+        android:key="egg_name"
+        android:title="the name of my egg"
+        android:summary="egg's name"
+        android:entries="@array/titles"
+        android:entryValues="@array/values"
+        />
+    <EditTextPreference 
+        android:key="my_name"
+        android:title="your name:"
+        android:summary="enter your name"
+        />
+
+</PreferenceScreen>

@@ -1,0 +1,126 @@
+[
+    {
+        "outputFile": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\src\\main\\res\\values\\egg_names.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endLine": 11,
+                    "endColumn": 27,
+                    "endOffset": 338
+                },
+                "from": {
+                    "file": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\src\\main\\res\\values\\egg_names.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 343,
+                    "endColumn": 57,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 55,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 52,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 41,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 41,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 552,
+                    "endColumn": 52,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 605,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 683
+                },
+                "from": {
+                    "file": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 688,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 755
+                },
+                "from": {
+                    "file": "C:\\Users\\bouda04\\Downloads\\ex12\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
